@@ -3,7 +3,7 @@ package com.abin.frequencycontrol.aspect;
 
 import cn.hutool.core.util.StrUtil;
 import com.abin.frequencycontrol.util.RequestHolder;
-import com.abin.chat.common.FrequencyControlConstant;
+import com.abin.chat.FrequencyControlConstant;
 import com.abin.mallchat.utils.SpElUtils;
 import com.abin.frequencycontrol.annotation.FrequencyControl;
 import com.abin.frequencycontrol.domain.dto.FixedWindowDTO;

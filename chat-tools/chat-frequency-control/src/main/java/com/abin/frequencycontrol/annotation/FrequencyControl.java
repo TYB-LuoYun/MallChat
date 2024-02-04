@@ -1,6 +1,6 @@
 package com.abin.frequencycontrol.annotation;
 
-import com.abin.chat.common.FrequencyControlConstant;
+import com.abin.chat.FrequencyControlConstant;
 
 import java.lang.annotation.*;
 import java.util.concurrent.TimeUnit;

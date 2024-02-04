@@ -1,7 +1,7 @@
 package com.abin.frequencycontrol.service.frequencycontrol.strategy;
 
 
-import com.abin.chat.common.FrequencyControlConstant;
+import com.abin.chat.FrequencyControlConstant;
 import com.abin.mallchat.utils.RedisUtils;
 import com.abin.frequencycontrol.domain.dto.FixedWindowDTO;
 import com.abin.frequencycontrol.service.frequencycontrol.AbstractFrequencyControlService;

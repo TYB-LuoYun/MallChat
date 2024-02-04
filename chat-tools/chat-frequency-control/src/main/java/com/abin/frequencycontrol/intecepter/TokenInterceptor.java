@@ -1,7 +1,7 @@
 package com.abin.frequencycontrol.intecepter;
 
 import com.abin.frequencycontrol.exception.HttpErrorEnum;
-import com.abin.chat.common.MDCKey;
+import com.abin.chat.MDCKey;
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.MDC;
 import org.springframework.core.annotation.Order;
